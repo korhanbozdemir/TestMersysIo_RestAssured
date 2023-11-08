@@ -16,6 +16,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class _01_PositionCategory {
 
+
     Faker random=new Faker();
     RequestSpecification reqSpec;
 
