@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Main Test">
+        <classes>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._1_Country.Country"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._2_BankAccount.BankAccounts"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._3_GradeLevels.GradeLevels"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._4_DocumentTypes.DocumentTypes"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._5_Fields.Fields"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._6_Discounts.Discounts"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._1_Parameters._7_Nationalities.Nationalities"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._2_SchoolSetup._1_Departments.Departments"></class>
+            <class name="TestMersyIo_RestAssured._1_Setup._2_SchoolSetup._2_Locations.Locations"></class>
+            <class name="TestMersyIo_RestAssured._3_HumanResources._1_Positions.Positions"></class>
+            <class name="TestMersyIo_RestAssured._3_HumanResources._2_Attestations.Attestations"></class>
+            <class name="TestMersyIo_RestAssured._3_HumanResources._3_PositionCategories.PositionCategories"></class>
+            <class name="TestMersyIo_RestAssured._4_Education._1_SubjectCategories.SubjectCategories"></class>
+        </classes>
+    </test>
+</suite>
